@@ -23,3 +23,6 @@ if __name__ == '__main__':
     # Realizamos la resta
     resultado_resta = restar(num1, num2)
     print(f"La resta de {num1} y {num2} es: {resultado_resta}")
+    print ("Nueva Linea")
+   print ("Nueva estoLinea") 
+   
